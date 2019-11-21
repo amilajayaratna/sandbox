@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a200bc8e-d05b-4291-96f6-297b891db845" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/results.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/results.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_sample1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_duckduckgosearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_duckduckgosearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +113,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
